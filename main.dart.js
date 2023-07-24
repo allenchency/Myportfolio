@@ -82582,7 +82582,7 @@ return A.avM(B.kx,r,B.ap,A.ha(s,B.W1,B.lo,s,s,s,s,s),A.ha(s,s,s,s,s,s,s,s),B.B0)
 $S:483}
 A.H1.prototype={
 I(a){var s=null,r=A.mL(B.I,A.dj(A.a_X(B.hw),s,s,s,s,s,s,s,$.rj(),s,s,s),B.v,B.bC)
-return A.fN(A.a([r,B.c1,A.dj("I'm a Flutter developer with a good understanding of the Flutter framework, I have experience in UI design, API integration, clean code writing and knowledge of solid principles and clean architecture. I have completed many projects that prove my ability to provide creative and high-quality solutions and finish them in an almost complete way with a great user experience without any problems facing users",s,s,s,s,s,!0,s,A.ay(a,s,t.w).w.a.a<A.bH(B.a6)?$.ri():$.wC(),s,s,s)],t.p),B.aV,B.X,B.P)}}
+return A.fN(A.a([r,B.c1,A.dj("I'm a developer with a good understanding of Python and Flutter framework, I have build many projects about data anaylsis with Python and build my personal portfolio with Dart in Flutter framwork. I have completed some projects that prove my ability to provide creative and high-quality solutions to solve some complex problem.",s,s,s,s,s,!0,s,A.ay(a,s,t.w).w.a.a<A.bH(B.a6)?$.ri():$.wC(),s,s,s)],t.p),B.aV,B.X,B.P)}}
 A.H2.prototype={
 I(a){var s=null
 return new A.dw(B.i5,A.fN(A.a([B.yS,B.c1,A.a1r(new A.Jk(A.ay(a,s,t.w).w.a.a/4,2,B.i,s),s,s),B.c1,B.FD,B.Pq,B.z9,B.Pr,B.EB],t.p),B.aV,B.X,B.P),s)}}
@@ -82643,7 +82643,7 @@ I(a){var s=null
 return A.fN(A.a([A.mL(B.I,A.dj("The services i offer:",s,s,s,s,s,s,s,$.rj(),s,s,s),B.v,B.bC),B.xN,B.EA],t.p),B.aV,B.X,B.P)}}
 A.Kj.prototype={
 I(a){var s=null,r=t.w
-return A.uA(A.a([A.dj("2+",s,s,s,s,s,s,s,A.ay(a,s,r).w.a.a<A.bH(B.a6)?$.rj().xO(48):$.rj().xO(96),s,s,s),B.Pl,new A.l1(1,B.ii,A.dj("Years of experience, Specialized in building apps, while ensuring a seamless web experience for end users.",s,s,s,s,s,!0,s,this.a53(A.ay(a,s,r).w.a.a),s,s,s),s)],t.p),B.af,B.X,B.P)},
+return A.uA(A.a([A.dj("1+",s,s,s,s,s,s,s,A.ay(a,s,r).w.a.a<A.bH(B.a6)?$.rj().xO(48):$.rj().xO(96),s,s,s),B.Pl,new A.l1(1,B.ii,A.dj("Years of experience, Specialized in data analysis.",s,s,s,s,s,!0,s,this.a53(A.ay(a,s,r).w.a.a),s,s,s),s)],t.p),B.af,B.X,B.P)},
 a53(a){if(a<A.bH(B.a6))return $.a_o().QX(B.ay)
 else if(a<A.bH(B.ag))return $.wC()
 else return $.GT().QX(B.ay)}}
@@ -82793,7 +82793,7 @@ s=A.ay(a,p,o).w.a.a<A.bH(B.ag)?$.GT():$.aCI()
 s=A.dj("Allen Chen",p,p,p,p,p,!0,p,s,A.ay(a,p,o).w.a.a<A.bH(B.a6)?B.bP:B.aT,p,p)
 r=A.ay(a,p,o).w.a.a<A.bH(B.a6)?A.ay(a,p,o).w.a.a-20:A.ay(a,p,o).w.a.a/2.5
 q=A.ay(a,p,o).w.a.a<A.bH(B.ag)?$.ri():$.wC()
-return A.fN(A.a([m,B.xO,s,B.h5,A.eh(A.dj("An Entry-Level developer with 2 months of experience in coding. I have completed this portfolio website to improve my programming skill and aim to solve complex problem in the future.",p,p,p,p,p,!0,p,q,A.ay(a,p,o).w.a.a<A.bH(B.a6)?B.bP:B.aT,p,p),p,r),B.Pn,B.GS],t.p),n,B.X,B.P)}}
+return A.fN(A.a([m,B.xO,s,B.h5,A.eh(A.dj("An Entry-Level developer with 3 months of experience in coding. I have completed this portfolio website to improve my programming skill and aim to solve complex problem in the future.",p,p,p,p,p,!0,p,q,A.ay(a,p,o).w.a.a<A.bH(B.a6)?B.bP:B.aT,p,p),p,r),B.Pn,B.GS],t.p),n,B.X,B.P)}}
 A.Nw.prototype={
 I(a){var s,r,q,p=this,o=null,n=t.p,m=A.a([],n),l=p.c,k=l.e==null,j=!k
 if(j)m.push(A.Ki(A.t5(B.ae,o,o,"Preview",new A.aaG(p),o)))
